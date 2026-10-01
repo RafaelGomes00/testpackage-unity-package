@@ -1,0 +1,7 @@
+{
+    "name": "com.rafael.testpackage-unity-package",
+    "version": "1.0.0",
+    "displayName": "Test Packaging",
+    "description": "Core systems shared between games.",
+    "unity": "6000.3"
+}
